@@ -269,7 +269,7 @@ input[type=submit]:hover {
 
 @media (pointer:none), (pointer:coarse) {
   .aboutimg {
-    width: 50%;
+    width: 100%;
   }
 }
   
