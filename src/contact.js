@@ -36,7 +36,7 @@ function Contact() {
                     <img src={discord} className="socials" alt=""/>
                 </a>
             </div>
-            <form action="/mailing">
+            <form action="/">
                 <div className="container">
                     <h2>Subscribe to our Newsletter!</h2>
                     <p>Enter your information below to be signed up to receive news from our company straight to your inbox!</p>
