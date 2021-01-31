@@ -269,7 +269,8 @@ input[type=submit]:hover {
 
 @media (pointer:none), (pointer:coarse) {
   .aboutimg {
-    width: 100%;
+    width: auto;
+    height: auto;
   }
 }
   
