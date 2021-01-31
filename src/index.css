@@ -266,4 +266,10 @@ input[type=submit]:hover {
 .threedee {
   width: 100%;
 }
+
+@media (pointer:none), (pointer:coarse) {
+  .aboutimg {
+    width: 50%;
+  }
+}
   
