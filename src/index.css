@@ -252,7 +252,7 @@ input[type=submit]:hover {
 }
 
 .aboutimg {
-  width: 50%;
+  height: 50%;
   padding-top: 15px;
 }
 
@@ -263,3 +263,8 @@ input[type=submit]:hover {
 .blogDate {
   padding-left: 15px;
 }
+
+.threedee {
+  width: 100%;
+}
+  
