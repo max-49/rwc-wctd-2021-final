@@ -22,7 +22,7 @@ function Home() {
                 <h2>What we've created:</h2>
                 <p>We've led the charge on combatting the problem of water pollution on the cmsumer end by creating the SortCan. This SortCan is a new-age garbage can which allows for (with either a barcode scan or input from the user) sorting of materials into their respective recyclable categories. Check out a prototype of our designi below!</p>
                 <div class="sketchfab-embed-wrapper">
-                    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/fbda7bbdd39c4700946ada48fa0af55a/embed?autostart=0&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+                    <iframe className="threedee" title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/fbda7bbdd39c4700946ada48fa0af55a/embed?autostart=0&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
                 </div>
             </div>
         </div>
