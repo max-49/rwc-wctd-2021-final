@@ -252,6 +252,7 @@ input[type=submit]:hover {
 }
 
 .aboutimg {
+  width: 50%;
   padding-top: 15px;
 }
 
